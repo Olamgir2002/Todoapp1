@@ -119,8 +119,8 @@ body {
 }
 
 .container {
-    width: 600px;
-    min-height: 800px;
+    max-width: 300px;
+    max-height: 400px;
     background: #fff;
     padding: 15px;
     border-radius: 10px;
